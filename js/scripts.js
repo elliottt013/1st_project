@@ -6,7 +6,7 @@ let name6 = 'mma';
 
 let user = {
     name: 'Akhmad',
-    age: 24,
+    age: '24',
     gender:  'male'
 };
 
