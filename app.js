@@ -16,10 +16,11 @@ let personalMovieDB = {
     privat: false
 };
 
-let question1 = prompt('Один из последних просмотренных фильмов?', '');
-let question2 = prompt('На сколько оцените его?', '');
-let question3 = prompt('Один из последних просмотренных фильмов?', '');
-let question4 = prompt('На сколько оцените его?', '');
+let question1 = prompt('Один из последних просмотренных фильмов?', ''),
+    question2 = prompt('На сколько оцените его?', ''),
+    question3 = prompt('Один из последних просмотренных фильмов?', ''),
+    question4 = prompt('На сколько оцените его?', '');
+
 
 
 personalMovieDB.movies[question1] = question2;
