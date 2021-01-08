@@ -4,13 +4,13 @@ let name6 = 'mma';
 
   
 
-let user = {
-    name: 'Akhmad',
-    age: '24',
-    gender:  'male'
-};
+// let user = {
+//     name: 'Akhmad',
+//     age: '24',
+//     gender:  'male'
+// };
 
-console.log(user.age);
+// console.log(user.age);
 
-let avto = ['bmw', 'lada', 'kamaz'];
-console.log(avto[1], name6);
+// let avto = ['bmw', 'lada', 'kamaz'];
+// console.log(avto[1], name6);
